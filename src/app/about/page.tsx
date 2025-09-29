@@ -9,7 +9,7 @@ export default function AboutPage() {
       <main className="py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h1 className="text-4xl font-bold text-white mb-6">About UK Top Casinos</h1>
+            <h1 className="text-4xl font-bold text-white mb-6">About 10BestOnlineCasinosUK</h1>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
               Your trusted guide to finding the best UK-licensed online casinos with exclusive bonuses and safe gaming experiences.
             </p>
@@ -19,7 +19,7 @@ export default function AboutPage() {
             <div className="bg-gray-900 rounded-xl p-8 mb-8">
               <h2 className="text-2xl font-bold text-white mb-4">Who We Are</h2>
               <p className="text-gray-300 leading-relaxed mb-4">
-                UK Top Casinos is an independent casino comparison website dedicated to helping UK players find safe, 
+                10BestOnlineCasinosUK is an independent casino comparison website dedicated to helping UK players find safe, 
                 licensed, and rewarding online casino experiences. We are not affiliated with any casino operator, 
                 ensuring our reviews remain completely unbiased and focused on what matters most to players.
               </p>
@@ -101,7 +101,7 @@ export default function AboutPage() {
                 We're here to help. You can reach us at:
               </p>
               <div className="text-gray-300 space-y-2">
-                <p><strong>Email:</strong> info@uktopcasinos.org</p>
+                <p><strong>Email:</strong> info@10bestonlinecasinosuk.org</p>
               </div>
             </div>
           </div>

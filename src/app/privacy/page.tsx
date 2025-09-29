@@ -127,7 +127,7 @@ export default function PrivacyPage() {
                 If you have any questions about this Privacy Policy or wish to exercise your rights, please contact us:
               </p>
               <div className="text-gray-300 space-y-2">
-                <p><strong>Email:</strong> info@uktopcasinos.org</p>
+                <p><strong>Email:</strong> info@10bestonlinecasinosuk.org</p>
               </div>
             </div>
           </div>

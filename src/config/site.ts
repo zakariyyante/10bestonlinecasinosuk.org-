@@ -35,6 +35,6 @@ export const siteConfig = {
   
   // Contact information
   contact: {
-    email: "info@uktopcasinos.org"
+    email: "info@10bestonlinecasinosuk.org"
   }
 };
