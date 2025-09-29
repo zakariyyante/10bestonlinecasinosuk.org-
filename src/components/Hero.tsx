@@ -28,43 +28,43 @@ export default function Hero() {
               <div className="w-8 h-8 bg-gradient-to-r from-green-400 to-emerald-500 rounded-full flex items-center justify-center shadow-lg">
                 <span className="text-white text-sm font-bold">⚡</span>
               </div>
-              <span className="font-medium">Fast Withdrawals</span>
+              <span className="font-medium">Quick Cashouts</span>
             </div>
             <div className="flex items-center space-x-3 whitespace-nowrap bg-gradient-to-r from-blue-500/20 to-cyan-500/20 px-4 py-2 rounded-full border border-blue-500/30 hover:border-blue-400/50 transition-all duration-300">
               <div className="w-8 h-8 bg-gradient-to-r from-blue-400 to-cyan-500 rounded-full flex items-center justify-center shadow-lg">
                 <span className="text-white text-sm font-bold">🆕</span>
               </div>
-              <span className="font-medium">New Casinos</span>
+              <span className="font-medium">Latest Sites</span>
             </div>
             <div className="flex items-center space-x-3 whitespace-nowrap bg-gradient-to-r from-yellow-500/20 to-orange-500/20 px-4 py-2 rounded-full border border-yellow-500/30 hover:border-yellow-400/50 transition-all duration-300">
               <div className="w-8 h-8 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-full flex items-center justify-center shadow-lg">
                 <span className="text-white text-sm font-bold">🏆</span>
               </div>
-              <span className="font-medium">Best Casinos</span>
+              <span className="font-medium">Premier Casinos</span>
             </div>
             <div className="flex items-center space-x-3 whitespace-nowrap bg-gradient-to-r from-purple-500/20 to-violet-500/20 px-4 py-2 rounded-full border border-purple-500/30 hover:border-purple-400/50 transition-all duration-300">
               <div className="w-8 h-8 bg-gradient-to-r from-purple-400 to-violet-500 rounded-full flex items-center justify-center shadow-lg">
                 <span className="text-white text-sm font-bold">⭐</span>
               </div>
-              <span className="font-medium">Top Casinos</span>
+              <span className="font-medium">Leading Casinos</span>
             </div>
             <div className="flex items-center space-x-3 whitespace-nowrap bg-gradient-to-r from-red-500/20 to-pink-500/20 px-4 py-2 rounded-full border border-red-500/30 hover:border-red-400/50 transition-all duration-300">
               <div className="w-8 h-8 bg-gradient-to-r from-red-400 to-pink-500 rounded-full flex items-center justify-center shadow-lg">
                 <span className="text-white text-sm font-bold">🎰</span>
               </div>
-              <span className="font-medium">Live Casino</span>
+              <span className="font-medium">Live Gaming</span>
             </div>
             <div className="flex items-center space-x-3 whitespace-nowrap bg-gradient-to-r from-indigo-500/20 to-blue-500/20 px-4 py-2 rounded-full border border-indigo-500/30 hover:border-indigo-400/50 transition-all duration-300">
               <div className="w-8 h-8 bg-gradient-to-r from-indigo-400 to-blue-500 rounded-full flex items-center justify-center shadow-lg">
                 <span className="text-white text-sm font-bold">💰</span>
               </div>
-              <span className="font-medium">Big Bonuses</span>
+              <span className="font-medium">Generous Offers</span>
             </div>
             <div className="flex items-center space-x-3 whitespace-nowrap bg-gradient-to-r from-pink-500/20 to-rose-500/20 px-4 py-2 rounded-full border border-pink-500/30 hover:border-pink-400/50 transition-all duration-300">
               <div className="w-8 h-8 bg-gradient-to-r from-pink-400 to-rose-500 rounded-full flex items-center justify-center shadow-lg">
                 <span className="text-white text-sm font-bold">📱</span>
               </div>
-              <span className="font-medium">Mobile Gaming</span>
+              <span className="font-medium">Mobile Play</span>
             </div>
           </div>
         </div>

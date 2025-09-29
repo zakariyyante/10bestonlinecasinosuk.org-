@@ -11,18 +11,17 @@ export default function Footer() {
             {/* Website Logo */}
             <div className="w-16 h-16">
               <img
-                src="/logos/websitelogo.svg"
-                alt="UK Top Casinos"
+                src="/logos/websitelogo-gold.svg"
+                alt="10BestOnlineCasinosUK"
                 className="w-full h-full"
               />
             </div>
             <div>
-              <h2 className="text-white font-bold text-2xl">Casino</h2>
-              <p className="text-white text-sm">Top 10</p>
+              <h2 className="text-white font-bold text-2xl">{siteConfig.name}</h2>
             </div>
           </div>
           <p className="text-gray-300 text-sm max-w-2xl">
-            Your trusted guide to the best UK online casino sites. We provide independent reviews and comparisons to help you find safe, licensed casinos.
+            Your reliable resource for premier UK online gambling platforms. We deliver impartial assessments and evaluations to assist you in discovering secure, authorized casinos.
           </p>
         </div>
 
@@ -90,7 +89,7 @@ export default function Footer() {
 
             {/* Disclaimer */}
             <p className="text-gray-300 text-xs leading-relaxed">
-              Please gamble responsibly. Gambling can be addictive. If you need help, contact GamCare or BeGambleAware.
+              Always gamble responsibly. Gaming can become habit-forming. Should you require assistance, reach out to GamCare or BeGambleAware.
             </p>
           </div>
         </div>
@@ -99,7 +98,7 @@ export default function Footer() {
         <div className="border-t border-gray-700 py-6">
           <div className="text-center text-gray-400 text-sm">
             <p>&copy; 2025 {siteConfig.name}. All rights reserved.</p>
-            <p className="mt-1">Gambling can be addictive. Please play responsibly.</p>
+            <p className="mt-1">Gaming may be addictive. Always play responsibly.</p>
           </div>
         </div>
       </div>

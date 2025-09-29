@@ -17,8 +17,8 @@ export const siteConfig = {
   
   // Hero section content
   hero: {
-    headline: "The Newest Casino Sites In The UK",
-    subtext: "Discover top-rated online casinos with exclusive bonuses, secure gaming, and 24/7 support. All licensed and regulated for UK players.",
+    headline: "10BestOnlineCasinosUK",
+    subtext: "Explore premier online gambling platforms featuring special promotions, protected gameplay, and round-the-clock assistance. All fully authorized and supervised for British players.",
   },
   
   // Casino brands data
@@ -26,9 +26,9 @@ export const siteConfig = {
     {
       name: "NRG",
       logo: "NRG.webp", // Change this filename to switch logos
-      bonus: "1Wager £25+ on slots and Get 80 Free Spin",
+      bonus: "1 Wager £25+ on slots and Get 80 Free Spin",
       rating: 5.0,
-      playLink: "https://nrglinks.com/dae0c859b?subid=NRG-UK02ZZ&clickid={gclid}"
+      playLink: "https://nrglinks.com/dae0c859b?subid=NRG-UK04ZZ&clickid={gclid}"
     }
   ],
 

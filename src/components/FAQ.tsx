@@ -7,28 +7,28 @@ export default function FAQ() {
 
   const faqs = [
     {
-      question: "Are all the casinos on this site licensed in the UK?",
-      answer: "Yes, every casino we recommend is fully licensed by the UK Gambling Commission. This ensures they meet strict standards for player protection, fair gaming, and responsible gambling."
+      question: "Do all featured casinos hold UK licenses?",
+      answer: "Indeed, each gambling site we endorse possesses complete UK Gambling Commission authorization. This guarantees they comply with stringent requirements for customer safety, fair play, and responsible gaming practices."
     },
     {
-      question: "How do you choose which casinos to feature?",
-      answer: "We evaluate casinos based on several factors including licensing, game variety, bonus offers, customer support quality, banking options, and overall player experience. Only the best casinos make it to our list."
+      question: "What's your selection process for featured casinos?",
+      answer: "Our evaluation considers multiple aspects including regulatory compliance, game selection, promotional packages, support quality, payment methods, and overall user satisfaction. Only top-tier establishments earn a spot on our platform."
     },
     {
-      question: "Are the bonus offers accurate and up-to-date?",
-      answer: "We regularly update our bonus information, but terms and conditions can change. Always check the casino's website for the most current bonus details and wagering requirements before signing up."
+      question: "How current are your promotional offers?",
+      answer: "We maintain regular updates to our bonus data, though casino terms may change. We recommend verifying the latest promotional details and playthrough requirements directly on each operator's platform prior to registration."
     },
     {
-      question: "Is it safe to play at these casinos?",
-      answer: "Absolutely. All recommended casinos use SSL encryption for secure transactions, are licensed by the UK Gambling Commission, and follow strict responsible gambling guidelines."
+      question: "Can I trust these gambling sites?",
+      answer: "Without question. Each recommended operator employs SSL encryption for transaction security, holds UK Gambling Commission licensing, and adheres to comprehensive responsible gaming protocols."
     },
     {
-      question: "Do I need to pay anything to use this comparison site?",
-      answer: "No, our service is completely free. We may receive compensation from casinos when you sign up through our links, but this doesn't affect our recommendations or the bonuses you receive."
+      question: "Is there a cost for using your comparison platform?",
+      answer: "Not at all, our service remains entirely free. While we may earn commission when visitors register via our referral links, this never influences our assessments or the promotions available to you."
     },
     {
-      question: "What should I do if I have a problem with a casino?",
-      answer: "First, contact the casino's customer support directly. If the issue isn't resolved, you can escalate it to the UK Gambling Commission or use their Alternative Dispute Resolution (ADR) service."
+      question: "What if I encounter issues with a casino?",
+      answer: "Initially, reach out to the casino's support team directly. Should your concern remain unresolved, you may escalate the matter to the UK Gambling Commission or utilize their Alternative Dispute Resolution (ADR) mechanism."
     }
   ];
 
@@ -42,7 +42,7 @@ export default function FAQ() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-white mb-4">Frequently Asked Questions</h2>
           <p className="text-gray-300 text-lg">
-            Everything you need to know about our casino recommendations
+            All the essential information about our casino suggestions
           </p>
         </div>
 

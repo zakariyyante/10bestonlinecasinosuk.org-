@@ -5,7 +5,7 @@ export default function WhyChooseUs() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-white mb-4">Why Choose Our Casino Guide?</h2>
           <p className="text-gray-300 text-lg max-w-3xl mx-auto">
-            We're not just another casino review site. Here's what makes us different and why thousands of UK players trust our recommendations.
+            We stand apart from typical casino comparison platforms. Discover what sets us apart and why countless British players rely on our expert guidance.
           </p>
         </div>
 
@@ -19,7 +19,7 @@ export default function WhyChooseUs() {
               <div>
                 <h3 className="text-white font-semibold text-lg mb-2">Independent & Unbiased</h3>
                 <p className="text-gray-300">
-                  We're not owned by any casino operator. Our reviews are completely independent and based on real player experiences.
+                  No gambling operator owns us. Every assessment we provide remains entirely impartial and stems from authentic player feedback.
                 </p>
               </div>
             </div>
@@ -31,7 +31,7 @@ export default function WhyChooseUs() {
               <div>
                 <h3 className="text-white font-semibold text-lg mb-2">UK-Focused Expertise</h3>
                 <p className="text-gray-300">
-                  We specialize exclusively in UK-licensed casinos, understanding the specific needs and preferences of UK players.
+                  Our expertise centers solely on UK-licensed gambling sites, with deep insight into what British players want and need.
                 </p>
               </div>
             </div>
@@ -43,7 +43,7 @@ export default function WhyChooseUs() {
               <div>
                 <h3 className="text-white font-semibold text-lg mb-2">Regular Testing & Updates</h3>
                 <p className="text-gray-300">
-                  We regularly test each casino's games, bonuses, and customer support to ensure our information is always current.
+                  Continuous evaluation of gaming selections, promotional offers, and support services keeps our data fresh and reliable.
                 </p>
               </div>
             </div>
@@ -55,7 +55,7 @@ export default function WhyChooseUs() {
               <div>
                 <h3 className="text-white font-semibold text-lg mb-2">Player Protection First</h3>
                 <p className="text-gray-300">
-                  We only recommend casinos with strong responsible gambling tools, secure banking, and excellent player protection measures.
+                  Our suggestions exclusively feature sites with robust safer gambling features, protected transactions, and superior player safety standards.
                 </p>
               </div>
             </div>
@@ -67,19 +67,19 @@ export default function WhyChooseUs() {
             <div className="grid grid-cols-2 gap-6">
               <div className="text-center">
                 <div className="text-3xl font-bold text-yellow-400 mb-2">100%</div>
-                <div className="text-gray-300 text-sm">UK Licensed Casinos</div>
+                <div className="text-gray-300 text-sm">UK Regulated Sites</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-yellow-400 mb-2">50K+</div>
-                <div className="text-gray-300 text-sm">Players Helped</div>
+                <div className="text-gray-300 text-sm">Satisfied Users</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-yellow-400 mb-2">24/7</div>
-                <div className="text-gray-300 text-sm">Support Available</div>
+                <div className="text-gray-300 text-sm">Help On Demand</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-yellow-400 mb-2">5★</div>
-                <div className="text-gray-300 text-sm">Average Rating</div>
+                <div className="text-gray-300 text-sm">User Score</div>
               </div>
             </div>
           </div>
