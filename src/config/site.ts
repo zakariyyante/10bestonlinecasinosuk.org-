@@ -17,7 +17,7 @@ export const siteConfig = {
   
   // Hero section content
   hero: {
-    headline: "10BestOnlineCasinosUK",
+    headline: "Find The Best New Casinos In The UK",
     subtext: "Explore premier online gambling platforms featuring special promotions, protected gameplay, and round-the-clock assistance. All fully authorized and supervised for British players.",
   },
   
