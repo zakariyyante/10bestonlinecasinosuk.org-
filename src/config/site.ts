@@ -28,7 +28,7 @@ export const siteConfig = {
       logo: "NRG.webp", // Change this filename to switch logos
       bonus: "1 Wager £25+ on slots and Get 80 Free Spin",
       rating: 5.0,
-      playLink: "https://nrglinks.com/dae0c859b?subid=NRG-UK04ZZ&clickid={gclid}"
+      playLink: "https://nrglinks.com/dae0c859b"
     }
   ],
 
